@@ -1,0 +1,9 @@
+venv/*
+llama_2.bin
+*.bin
+*chainlit*
+docs
+vectorstore
+__pycache__
+data
+*.bin
