@@ -29,7 +29,7 @@ Before you can start using the Llawma Bot, make sure you have the following prer
 1. Clone this repository to your local machine.
 
    ```bash
-   git clone https://github.com/barrywire/llawma.git
+   git clone https://github.com/samrasugu/llawma.git
    cd llawma
    ```
 
